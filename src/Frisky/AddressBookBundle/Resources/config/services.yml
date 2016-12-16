@@ -1,0 +1,4 @@
+services:
+#    ab.example:
+#        class: Frisky\AddressBookBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
